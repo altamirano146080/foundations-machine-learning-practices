@@ -1,11 +1,16 @@
 [project]
-name = "unit3"
+name = "practices"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 dependencies = [
-    "numpy>=2.3.3",
-    "pandas>=2.3.2",
+    "colorspacious>=1.1.2",
+    "jupyterlab>=4.4.10",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+    "pandas>=2.3.1",
     "scikit-learn>=1.7.2",
+    "scipy>=1.16.2",
+    "seaborn>=0.13.2",
 ]
